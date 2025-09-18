@@ -28,9 +28,9 @@ namespace SalaryContratcManager1
             Console.Write("How many contracts to this worker?: ");
             int n = int.Parse(Console.ReadLine());
 
-            for (int i = 0; i < n; i++)
+            for (int i = 1; i < n; i++)
             {
-                Console.Write($"Enter #{i+1} contract data: ");
+                Console.Write($"Enter #{i} contract data: ");
                 DateTime date = DateTime.Parse(Console.ReadLine());
 
                 Console.Write("Value per hour: ");
