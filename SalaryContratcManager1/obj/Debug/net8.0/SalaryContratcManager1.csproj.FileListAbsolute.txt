@@ -1,0 +1,14 @@
+C:\Users\jonat\Documents\programs02\csharp\SalaryContratcManager1\SalaryContratcManager1\bin\Debug\net8.0\SalaryContratcManager1.exe
+C:\Users\jonat\Documents\programs02\csharp\SalaryContratcManager1\SalaryContratcManager1\bin\Debug\net8.0\SalaryContratcManager1.deps.json
+C:\Users\jonat\Documents\programs02\csharp\SalaryContratcManager1\SalaryContratcManager1\bin\Debug\net8.0\SalaryContratcManager1.runtimeconfig.json
+C:\Users\jonat\Documents\programs02\csharp\SalaryContratcManager1\SalaryContratcManager1\bin\Debug\net8.0\SalaryContratcManager1.dll
+C:\Users\jonat\Documents\programs02\csharp\SalaryContratcManager1\SalaryContratcManager1\bin\Debug\net8.0\SalaryContratcManager1.pdb
+C:\Users\jonat\Documents\programs02\csharp\SalaryContratcManager1\SalaryContratcManager1\obj\Debug\net8.0\SalaryContratcManager1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\programs02\csharp\SalaryContratcManager1\SalaryContratcManager1\obj\Debug\net8.0\SalaryContratcManager1.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\programs02\csharp\SalaryContratcManager1\SalaryContratcManager1\obj\Debug\net8.0\SalaryContratcManager1.AssemblyInfo.cs
+C:\Users\jonat\Documents\programs02\csharp\SalaryContratcManager1\SalaryContratcManager1\obj\Debug\net8.0\SalaryContratcManager1.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\programs02\csharp\SalaryContratcManager1\SalaryContratcManager1\obj\Debug\net8.0\SalaryContratcManager1.dll
+C:\Users\jonat\Documents\programs02\csharp\SalaryContratcManager1\SalaryContratcManager1\obj\Debug\net8.0\refint\SalaryContratcManager1.dll
+C:\Users\jonat\Documents\programs02\csharp\SalaryContratcManager1\SalaryContratcManager1\obj\Debug\net8.0\SalaryContratcManager1.pdb
+C:\Users\jonat\Documents\programs02\csharp\SalaryContratcManager1\SalaryContratcManager1\obj\Debug\net8.0\SalaryContratcManager1.genruntimeconfig.cache
+C:\Users\jonat\Documents\programs02\csharp\SalaryContratcManager1\SalaryContratcManager1\obj\Debug\net8.0\ref\SalaryContratcManager1.dll
