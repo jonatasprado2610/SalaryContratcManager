@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "SalaryContratcManager1\\Entities\\Worker.cs",
               "ToolTip": "C:\\Users\\jonat\\Documents\\programs02\\csharp\\SalaryContratcManager1\\SalaryContratcManager1\\Entities\\Worker.cs",
               "RelativeToolTip": "SalaryContratcManager1\\Entities\\Worker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwCcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-18T16:38:15.44Z",
               "EditorCaption": ""
@@ -53,10 +53,9 @@
               "RelativeDocumentMoniker": "SalaryContratcManager1\\Entities\\HourContratcs.cs",
               "ToolTip": "C:\\Users\\jonat\\Documents\\programs02\\csharp\\SalaryContratcManager1\\SalaryContratcManager1\\Entities\\HourContratcs.cs",
               "RelativeToolTip": "SalaryContratcManager1\\Entities\\HourContratcs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T16:37:44.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-18T16:37:44.455Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "SalaryContratcManager1\\Entities\\Enums\\WorkerLevel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T16:37:03.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-18T16:37:03.995Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "SalaryContratcManager1\\Entities\\Department.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T16:35:42.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-18T16:35:42.149Z"
             },
             {
               "$type": "Document",
@@ -90,9 +87,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jonat\\Documents\\programs02\\csharp\\SalaryContratcManager1\\SalaryContratcManager1\\Program.cs",
               "RelativeDocumentMoniker": "SalaryContratcManager1\\Program.cs",
-              "ToolTip": "C:\\Users\\jonat\\Documents\\programs02\\csharp\\SalaryContratcManager1\\SalaryContratcManager1\\Program.cs*",
-              "RelativeToolTip": "SalaryContratcManager1\\Program.cs*",
-              "ViewState": "AgIAABkAAAAAAAAAAAAwwCYAAAA0AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\jonat\\Documents\\programs02\\csharp\\SalaryContratcManager1\\SalaryContratcManager1\\Program.cs",
+              "RelativeToolTip": "SalaryContratcManager1\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-18T16:33:44.47Z",
               "EditorCaption": ""
